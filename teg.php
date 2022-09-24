@@ -1,3 +1,3 @@
-<?phцвp
+<?php
 
 echo "HEllo world";
