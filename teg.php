@@ -1,8 +1,4 @@
 <?php
 
-echo "HEllo world";
-
-
-
-
+echo "Heeello world";
 echo "World too";
