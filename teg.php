@@ -1,4 +1,4 @@
 <?php
 
-echo "HEllo world";
+echo "Hello world";
 echo "World too";
